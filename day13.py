@@ -11,7 +11,7 @@ print(a.lower())
 # Replace karna
 print(a.replace("Bilal","Noor"))
 
-# rstrip (ju hatna hai )!
+# rstrip (ju hata ta hai )!
 b="Haris!!!"
 print(b.rstrip("!"))
 print(b.replace("Haris","m"))
